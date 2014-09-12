@@ -1,7 +1,7 @@
 {
   "name": "relative-package",
   "description": "Find package.json (or another) relative to a given file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>",
   "repository": {
     "type": "git",
@@ -26,7 +26,16 @@
     "expect.js": "*",
     "mocha": "*"
   },
-  "keywords": ["package.json","component.json","bower.json","rc","relative","related","find","path"],
+  "keywords": [
+    "package.json",
+    "component.json",
+    "bower.json",
+    "rc",
+    "relative",
+    "related",
+    "find",
+    "path"
+  ],
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
   }
